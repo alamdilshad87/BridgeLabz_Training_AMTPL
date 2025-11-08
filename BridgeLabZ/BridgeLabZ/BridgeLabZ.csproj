@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.Constructor.RealWorldProblems.BankAccount</StartupObject>
+    <StartupObject>BridgeLabZ.Encapsulation.Student_Encapsulation</StartupObject>
   </PropertyGroup>
 
 </Project>
