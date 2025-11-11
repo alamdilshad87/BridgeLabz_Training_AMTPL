@@ -11,6 +11,7 @@ namespace BridgeLabZ.Abstraction.AbstractClass
         public abstract void Start();
         public abstract void Stop();
     }
+
     public class Car : Vehicle
     {
         public override void Start()
@@ -23,6 +24,7 @@ namespace BridgeLabZ.Abstraction.AbstractClass
             Console.WriteLine("Car is stopping using its brakes.");
         }
     }
+
     public class ElectricTrain : Vehicle
     {
         public override void Start()
@@ -34,25 +36,27 @@ namespace BridgeLabZ.Abstraction.AbstractClass
         {
             Console.WriteLine("Electric train is stopping by cutting off the power.");
         }
+
+        public static void StartVehicle(Vehicle vehicle)
+        {
+            vehicle.Start();
+            vehicle.Stop();
+        }
     }
 
-    public class Program
+    public class Program3
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            //Using Abstraction
+            // Using Abstraction
             Vehicle myCar = new Car();
             Vehicle myTrain = new ElectricTrain();
 
-            StartVehicle(myCar);
-            StartVehicle(myTrain);
+            // Call the StartVehicle method to demonstrate abstraction
+            ElectricTrain.StartVehicle(myCar);
+            ElectricTrain.StartVehicle(myTrain);
 
-            Console.Read();
-        }
-
-        static void StartVehicle(Vehicle vehicle)
-        {
-            vehicle.Start();
+            Console.ReadLine();
         }
     }
 }

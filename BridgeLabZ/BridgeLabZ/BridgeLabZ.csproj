@@ -5,11 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.Abstraction.AbstractClass.Program</StartupObject>
+    <StartupObject>BridgeLabZ.Abstraction.AbstractClass.Program3</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Abstraction\Interface\" />
-  </ItemGroup>
 
 </Project>
