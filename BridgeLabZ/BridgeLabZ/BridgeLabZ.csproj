@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.Abstraction.AbstractClass.Program3</StartupObject>
+    <StartupObject>BridgeLabZ.Polymorphism.CompileTImePolymorphism.Calculator</StartupObject>
   </PropertyGroup>
 
 </Project>
