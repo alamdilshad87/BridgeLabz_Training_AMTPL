@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.ImplicitConversion</StartupObject>
+    <StartupObject>BridgeLabZ.ExceptionHandling.CustomException</StartupObject>
   </PropertyGroup>
 
 </Project>
