@@ -5,11 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.Searching.BinarySearch</StartupObject>
+    <StartupObject>BridgeLabZ._1_LinkedList.Program</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Sorting\" />
-  </ItemGroup>
 
 </Project>
