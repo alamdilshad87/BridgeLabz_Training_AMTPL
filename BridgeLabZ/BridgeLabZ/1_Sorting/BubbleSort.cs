@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BridgeLabZ.Sorting
+namespace BridgeLabZ._1_Sorting
 {
     internal class BubbleSort
     {

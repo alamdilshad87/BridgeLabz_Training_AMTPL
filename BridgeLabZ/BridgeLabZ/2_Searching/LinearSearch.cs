@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BridgeLabZ.Searching
+namespace BridgeLabZ._2_Searching
 {
     internal class LinearSearch
     {

@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ._1_LinkedList.Program</StartupObject>
+    <StartupObject>BridgeLabZ._4_DoublyLinkedList.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

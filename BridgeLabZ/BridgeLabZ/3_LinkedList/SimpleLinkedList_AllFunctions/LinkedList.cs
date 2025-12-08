@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BridgeLabZ._1_LinkedList.SimpleLinkedList_AllFunctions
+namespace BridgeLabZ._3_LinkedList.SimpleLinkedList_AllFunctions
 { 
     public class Node
     {
