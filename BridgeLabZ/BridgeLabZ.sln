@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeLabZ", "BridgeLabZ\BridgeLabZ.csproj", "{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeLabZ.NUnitTesting", "BridgeLabZ.NUnitTesting\BridgeLabZ.NUnitTesting.csproj", "{7F080AD6-91A3-4917-B9CF-5D1F22270A84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F080AD6-91A3-4917-B9CF-5D1F22270A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F080AD6-91A3-4917-B9CF-5D1F22270A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F080AD6-91A3-4917-B9CF-5D1F22270A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F080AD6-91A3-4917-B9CF-5D1F22270A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
