@@ -175,7 +175,7 @@ A detailed log of my daily learning, coding, and progress during the BridgeLabZ 
 
 ---
 
-## 📅 **9 November**
+## 📅 **8 November**
 ### ✅ What I’ve Done
 - Implemented **Abstraction** (Vehicle Example)  
 - Learnt theory on Inheritance & Polymorphism  
@@ -189,7 +189,7 @@ A detailed log of my daily learning, coding, and progress during the BridgeLabZ 
 
 ---
 
-## 📅 **8 November**
+## 📅 **7 November**
 ### ✅ What I’ve Done
 - Constructor Programs (All 5 Types)  
 - BankAccount Program using various constructors  
@@ -211,7 +211,7 @@ A detailed log of my daily learning, coding, and progress during the BridgeLabZ 
 
 ---
 
-## 📅 **7 November**
+## 📅 **6 November**
 ### ✅ What I’ve Done
 - Completed **Employee Wage Problem** fully (UC1–UC10) with Git workflow  
 - Completed **Snake Ladder Problem** + full Git workflow + detailed README  
