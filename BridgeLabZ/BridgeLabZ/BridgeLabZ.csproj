@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.Delegates.MultiCast.SimpleMultiCast</StartupObject>
+    <StartupObject>BridgeLabZ.Events.DoorBellSystem.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
