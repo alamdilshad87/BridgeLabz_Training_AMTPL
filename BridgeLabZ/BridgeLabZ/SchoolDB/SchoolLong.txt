@@ -1,0 +1,95 @@
+﻿using System;
+using Microsoft.Data.SqlClient;
+
+namespace BridgeLabZ.SchoolDB
+{
+    internal class School
+    {
+        static string connectionString =
+            "Server=DILSHAD\\SQLEXPRESS;" +
+            "Database=SchoolDB;" +
+            "Trusted_Connection=True;" +
+            "TrustServerCertificate=True;";
+
+        static void InsertStudent(string name, int age, string city)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string query =
+                    "INSERT INTO Students (Name, Age, City) VALUES (@Name, @Age, @City)";
+
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Name", name);
+                cmd.Parameters.AddWithValue("@Age", age);
+                cmd.Parameters.AddWithValue("@City", city);
+
+                con.Open();
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("Student Inserted");
+            }
+        }
+
+        static void GetStudents()
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string query = "SELECT * FROM Students";
+                SqlCommand cmd = new SqlCommand(query, con);
+
+                con.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                Console.WriteLine("\nStudents List:");
+                while (reader.Read())
+                {
+                    Console.WriteLine(
+                        $"Id: {reader["Id"]}, Name: {reader["Name"]}, Age: {reader["Age"]}, City: {reader["City"]}");
+                }
+            }
+        }
+
+        static void UpdateStudent(int id, string newCity)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string query =
+                    "UPDATE Students SET City=@City WHERE Id=@Id";
+
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@City", newCity);
+                cmd.Parameters.AddWithValue("@Id", id);
+
+                con.Open();
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("✔ Student Updated");
+            }
+        }
+
+        static void DeleteStudent(int id)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string query =
+                    "DELETE FROM Students WHERE Id=@Id";
+
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Id", id);
+
+                con.Open();
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("Student Deleted");
+            }
+        }
+        static void Main()
+        {
+            InsertStudent("Dilshad", 21, "Dhanbad");
+            GetStudents();
+            UpdateStudent(1, "Ranchi");
+            GetStudents();
+            DeleteStudent(1);
+            GetStudents();
+
+            Console.ReadKey();
+        }
+    }
+}
