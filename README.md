@@ -1,6 +1,150 @@
 # 📘 BridgeLabZ Training Progress  
 A detailed log of my daily learning, coding, and progress during the BridgeLabZ training program.
 
+## 📅 **20 December**
+### ✅ What I’ve Done
+- Worked on **ADO.NET connection with Database**
+
+### 🎯 What I Will Do Next
+- Billing Question
+
+### ⚠️ Issues Faced
+- Connection errors between Visual Studio packages *(Resolved)*
+
+---
+
+## 📅 **19 December**
+### ✅ What I’ve Done
+- Installed required dependencies  
+- Created a **Web API project** connecting Database using **Postman**  
+- Worked on **ADO.NET Billing Question**
+
+### 🎯 What I Will Do Next
+- ADO.NET
+
+### ⚠️ Issues Faced
+- Connection issues between Database and Visual Studio *(Resolved)*
+
+---
+
+## 📅 **18 December**
+### ✅ What I’ve Done
+- Theory on **ADO.NET**, **Entity Framework**, and **Dapper**  
+- Learnt **DML Operations**
+
+### 🎯 What I Will Do Next
+- Database Operations with Code  
+- Connecting Application to Database
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **17 December**
+### ✅ What I’ve Done
+- Built a **small WebForm project**  
+- Learnt **KISS**, **DIY**, and **DRY** principles  
+- Started **ADO.NET**
+
+### 🎯 What I Will Do Next
+- Complete ADO.NET  
+- Start Database concepts (**DDL & DML**)
+
+### ⚠️ Issues Faced
+- Linking error between `.aspx` files *(Resolved using MasterSite attribute)*
+
+---
+
+## 📅 **16 December**
+### ✅ What I’ve Done
+- Solved **LINQ Employee Problems**  
+- File Operations (Theory + Code)
+
+### 🎯 What I Will Do Next
+- SOLID Principles  
+- ADO.NET
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **15 December**
+### ✅ What I’ve Done
+- Worked on **LINQ**  
+- Started **I/O Streams**  
+- Started **Inheritance Problems**
+
+### 🎯 What I Will Do Next
+- Input / Output Streams
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **13 December**
+### ✅ What I’ve Done
+- Completed **Reflection** (Theory + Code)  
+- Worked on **LINQ**
+
+### 🎯 What I Will Do Next
+- LINQ Practice Questions  
+- I/O Stream
+
+### ⚠️ Issues Faced
+- Understanding LINQ syntax structure
+
+---
+
+## 📅 **12 December**
+### ✅ What I’ve Done
+- Started **Reflections**  
+- Started **LINQ**
+
+### 🎯 What I Will Do Next
+- LINQ Questions  
+- I/O Stream
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **11 December**
+### ✅ What I’ve Done
+- Learnt **Events**  
+- **WebForm** (Theory Only)  
+- Started **Reflections**
+
+### 🎯 What I Will Do Next
+- LINQ  
+- I/O Stream
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **10 December**
+### ✅ What I’ve Done
+- **Lambda Expressions** (5 Codes + Async Lambdas)  
+- **Closures & Async Closures** (Theory + Code)  
+- **Delegates**
+  - Single Cast (3 Methods)
+  - Invoke Methods (2 Ways)
+- **Multicast Delegates** & Method Chaining (Theory + Code)
+
+### 🎯 What I Will Do Next
+- Events  
+- Reflections  
+- LINQ  
+- I/O Stream
+
+### ⚠️ Issues Faced
+- None
+
 ---
 
 ## 📅 **9 December**
