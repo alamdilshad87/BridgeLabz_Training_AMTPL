@@ -12,7 +12,7 @@ namespace BridgeLabZ.Lambdas
         {
             Func<int, int> square = x => x * x;
             Console.WriteLine("Square of 5: " + square(5));
-
+            
             Func<int, int, int> add = (a, b) => a + b;
             Console.WriteLine("3 + 4 = " + add(3, 4));
 
