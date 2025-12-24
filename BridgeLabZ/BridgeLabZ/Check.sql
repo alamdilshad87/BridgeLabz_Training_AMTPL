@@ -1,1 +1,3 @@
-﻿select * from employee where salary>50000;
+﻿SELECT TABLE_SCHEMA, TABLE_NAME
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_NAME = 'Employee';
