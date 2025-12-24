@@ -1,1 +1,1 @@
-﻿Execute sp_GetEmployeesByDept 2;
+﻿EXEC sp_GetEmployeesByDept 2;
