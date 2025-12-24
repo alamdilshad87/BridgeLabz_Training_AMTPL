@@ -1,0 +1,5 @@
+﻿CREATE DATABASE EmployeeDB;
+GO
+
+USE EmployeeDB;
+GO
