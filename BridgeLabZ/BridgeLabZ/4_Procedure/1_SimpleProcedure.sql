@@ -1,6 +1,5 @@
-﻿
-alter procedure sp_GetAllEmployees
-as
-begin
-	select * from dbo.Employee;
-end;
+﻿CREATE PROCEDURE sp_GetAllEmployees_nameA
+AS
+BEGIN
+    SELECT name FROM Employee;
+END;
