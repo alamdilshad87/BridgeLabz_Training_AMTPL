@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabZ.Question.FetchDataReader</StartupObject>
+    <StartupObject>BridgeLabZ.BillingPOS.BillingAdv.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
