@@ -1,0 +1,5 @@
+﻿CREATE DATABASE Billing;
+GO
+USE Billing;
+GO
+
