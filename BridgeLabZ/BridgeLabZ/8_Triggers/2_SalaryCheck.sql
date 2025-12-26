@@ -1,3 +1,3 @@
 ﻿UPDATE dbo.Employee
-SET Salary = Salary + 1000
+SET Salary = Salary + 5000
 WHERE EmpId = 999;
