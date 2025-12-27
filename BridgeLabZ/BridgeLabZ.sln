@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeLabZ", "BridgeLabZ\BridgeLabZ.csproj", "{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreEF", "BookStoreEF\BookStoreEF.csproj", "{204E0163-5A12-406B-B354-8BB0184CFB16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B50A800-8C98-4D47-A0A2-2A7BF39E40AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204E0163-5A12-406B-B354-8BB0184CFB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204E0163-5A12-406B-B354-8BB0184CFB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204E0163-5A12-406B-B354-8BB0184CFB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204E0163-5A12-406B-B354-8BB0184CFB16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
