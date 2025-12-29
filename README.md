@@ -1,475 +1,105 @@
-# 📘 BridgeLabZ Training Progress  
-A detailed log of my daily learning, coding, and progress during the BridgeLabZ training program.
+# BridgeLabz – Projects Hub
 
-## 📅 **20 December**
-### ✅ What I’ve Done
-- Worked on **ADO.NET connection with Database**
+A central repository containing all projects and assignments completed during the BridgeLabz training program. Each project is built with clean architecture, incremental development, and proper documentation.
 
-### 🎯 What I Will Do Next
-- Billing Question
+## Projects
 
-### ⚠️ Issues Faced
-- Connection errors between Visual Studio packages *(Resolved)*
+### 1. Snake & Ladder Simulator
+**Repository:** [https://github.com/alamdilshad87/Snake-Ladder](https://github.com/alamdilshad87/Snake-Ladder)
 
----
+Console-based implementation of the classic Snake & Ladder game, developed incrementally through 7 use cases.
 
-## 📅 **19 December**
-### ✅ What I’ve Done
-- Installed required dependencies  
-- Created a **Web API project** connecting Database using **Postman**  
-- Worked on **ADO.NET Billing Question**
+**Topics Covered:**
+- Random number generation
+- Game state management
+- Turn-based logic
+- Conditional rule implementation
 
-### 🎯 What I Will Do Next
-- ADO.NET
-
-### ⚠️ Issues Faced
-- Connection issues between Database and Visual Studio *(Resolved)*
+**Tech Stack:** C#, .NET Console Application
 
 ---
 
-## 📅 **18 December**
-### ✅ What I’ve Done
-- Theory on **ADO.NET**, **Entity Framework**, and **Dapper**  
-- Learnt **DML Operations**
+### 2. Employee Wage Computation System
+**Repository:** [https://github.com/alamdilshad87/EmployeeWage](https://github.com/alamdilshad87/EmployeeWage)
 
-### 🎯 What I Will Do Next
-- Database Operations with Code  
-- Connecting Application to Database
+Scalable employee wage management system evolved through 14 use cases, from basic attendance checks to multi-company wage calculations.
 
-### ⚠️ Issues Faced
-- None
+**Topics Covered:**
+- Object-oriented programming (classes, interfaces)
+- Multi-company support
+- Wage calculation algorithms
+- Data aggregation and querying
+- API-style method design
 
----
-
-## 📅 **17 December**
-### ✅ What I’ve Done
-- Built a **small WebForm project**  
-- Learnt **KISS**, **DIY**, and **DRY** principles  
-- Started **ADO.NET**
-
-### 🎯 What I Will Do Next
-- Complete ADO.NET  
-- Start Database concepts (**DDL & DML**)
-
-### ⚠️ Issues Faced
-- Linking error between `.aspx` files *(Resolved using MasterSite attribute)*
+**Tech Stack:** C#, .NET Console Application
 
 ---
 
-## 📅 **16 December**
-### ✅ What I’ve Done
-- Solved **LINQ Employee Problems**  
-- File Operations (Theory + Code)
+### 3. Library Management System
+**Repository:** [https://github.com/alamdilshad87/LibraryManagementSystem](https://github.com/alamdilshad87/LibraryManagementSystem)
 
-### 🎯 What I Will Do Next
-- SOLID Principles  
-- ADO.NET
+Console-based system for managing books, members, borrowing, and returns with search functionality.
 
-### ⚠️ Issues Faced
-- None
+**Topics Covered:**
+- Object-oriented design
+- Search and filtering operations
+- Inventory tracking
+- Modular class structure
 
----
-
-## 📅 **15 December**
-### ✅ What I’ve Done
-- Worked on **LINQ**  
-- Started **I/O Streams**  
-- Started **Inheritance Problems**
-
-### 🎯 What I Will Do Next
-- Input / Output Streams
-
-### ⚠️ Issues Faced
-- None
+**Tech Stack:** C#, .NET Console Application
 
 ---
 
-## 📅 **13 December**
-### ✅ What I’ve Done
-- Completed **Reflection** (Theory + Code)  
-- Worked on **LINQ**
+### 4. Address Book System
+**Repository:** [https://github.com/alamdilshad87/AddressBook](https://github.com/alamdilshad87/AddressBook)
 
-### 🎯 What I Will Do Next
-- LINQ Practice Questions  
-- I/O Stream
+Feature-rich address book developed through 18 use cases, supporting multiple data formats, APIs, and concurrent operations.
 
-### ⚠️ Issues Faced
-- Understanding LINQ syntax structure
+**Topics Covered:**
+- Collections and data structures
+- Duplicate detection and validation
+- Geographic filtering (city/state)
+- File I/O (CSV, JSON)
+- REST API integration
+- Multithreading
+- Design patterns (Open-Closed Principle)
 
----
-
-## 📅 **12 December**
-### ✅ What I’ve Done
-- Started **Reflections**  
-- Started **LINQ**
-
-### 🎯 What I Will Do Next
-- LINQ Questions  
-- I/O Stream
-
-### ⚠️ Issues Faced
-- None
+**Tech Stack:** C#, .NET, File I/O, REST APIs, Multithreading
 
 ---
 
-## 📅 **11 December**
-### ✅ What I’ve Done
-- Learnt **Events**  
-- **WebForm** (Theory Only)  
-- Started **Reflections**
+### 5. BookStore Management System
+**Repository:** [https://github.com/alamdilshad87/BookStoreManagementSystem](https://github.com/alamdilshad87/BookStoreManagementSystem)
 
-### 🎯 What I Will Do Next
-- LINQ  
-- I/O Stream
+Full-stack e-commerce application with user authentication, shopping cart, orders, and admin dashboard.
 
-### ⚠️ Issues Faced
-- None
+**Features:**
+- User registration and login with secure password hashing
+- Product browsing and search
+- Shopping cart and wishlist
+- Order creation and history
+- Admin dashboard for inventory management
+- Role-based access control
+- Entity Framework Code First architecture
 
----
-
-## 📅 **10 December**
-### ✅ What I’ve Done
-- **Lambda Expressions** (5 Codes + Async Lambdas)  
-- **Closures & Async Closures** (Theory + Code)  
-- **Delegates**
-  - Single Cast (3 Methods)
-  - Invoke Methods (2 Ways)
-- **Multicast Delegates** & Method Chaining (Theory + Code)
-
-### 🎯 What I Will Do Next
-- Events  
-- Reflections  
-- LINQ  
-- I/O Stream
-
-### ⚠️ Issues Faced
-- None
+**Tech Stack:** ASP.NET Web Forms, C#, Entity Framework 6, SQL Server Express, Bootstrap 5
 
 ---
 
-## 📅 **9 December**
-### ✅ What I’ve Done
-- Attributes Theory  
-- NUnit Testing (Theory + Implementation)  
-  - 2 Programs  
-  - 13 Test Cases  
-- Lambda Expressions Theory + Code  
+## Development Standards
 
-### 🎯 What I Will Do Next
-- Closures  
-- Delegates  
-- Events  
-- Reflections  
+- Use-case driven development methodology
+- Feature branch workflow with dev and main branches
+- Meaningful commit messages
+- Organized folder structure
+- Comprehensive README documentation
 
-### ⚠️ Issues Faced
-- NUnit Test Case Generation *(Resolved)*  
+## About
 
----
+**Author:** MD Dilshad Alam  
+**Program:** BridgeLabz Training  
+**Focus:** C# & .NET Development
 
-## 📅 **8 December**
-### ✅ What I’ve Done
-- Delegate  
-- IComparable & IComparer (Theory + Code)  
-- DateTime (All parameters & functionalities) Theory + Code  
-- Annotations  
+**GitHub:** [https://github.com/alamdilshad87](https://github.com/alamdilshad87)
 
-### 🎯 What I Will Do Next
-- NUnit  
-- Lambda  
-- Closures  
-- Events  
-- LINQ  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **6 December**
-### ✅ What I’ve Done
-- Sorting Algorithms: Bubble, Insertion, Merge (Theory + Code)  
-- Given 3rd Review  
-- Solved Questions from Sir  
-- Started Delegates & Events  
-
-### 🎯 What I Will Do Next
-- Delegates  
-- Multi Delegates  
-- Events  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **5 December**
-### ✅ What I’ve Done
-- Collections  
-  - Non-Generic: ArrayList, Hashtable, SortedList, Stack, Queue  
-  - Generic: List, Dictionary, SortedList, SortedDictionary, HashSet, SortedSet, LinkedList  
-- Solved Questions + Pushed via Git workflow  
-- Regex: Theory + Mail & Phone Validation  
-- Exception Handling + Custom Exception Class  
-
-### 🎯 What I Will Do Next
-- Revise Searching & Sorting Algorithms  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **3 December**
-### ✅ What I’ve Done
-- Exceptions (Theory)  
-- Collections: List, HashMap, Enum  
-- Started Regex  
-
-### 🎯 What I Will Do Next
-- Codes on Regex  
-- Exception Codes  
-
-### ⚠️ Issues Faced
-- Structure of Regex & conditions *(Resolved)*  
-
----
-
-## 📅 **15 November**
-### ✅ What I’ve Done
-- Generic & Non-Generic Collections  
-- SortedList  
-- HashSet  
-- Dictionary  
-
-### 🎯 What I Will Do Next
-- Stack  
-- Queue  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **14 November**
-### ✅ What I’ve Done
-- Learnt **Generic & Non-Generic Collections**
-
-### 🎯 What I Will Do Next
-- Address Book  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **13 November**
-### ✅ What I’ve Done
-- Revised OOPs  
-- Learnt Types of Collections  
-- Started RegEx  
-- Gave Review  
-
-### 🎯 What I Will Do Next
-- Address Book UC10  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **12 November**
-### ✅ What I’ve Done
-- Learnt OOP Concepts  
-- Learnt Lists  
-- Started Collections  
-- Started RegEx  
-
-### 🎯 What I Will Do Next
-- Address Book UC5–UC10 after Collections & RegEx  
-- Continue Collections  
-- Continue RegEx  
-
-### ⚠️ Issues Faced
-- Understanding how List works *(Resolved)*  
-- None for second session  
-
----
-
-## 📅 **11 November**
-### ✅ What I’ve Done
-- Learnt **Polymorphism**, its types, and implementations  
-
-### 🎯 What I Will Do Next
-- More implementation of Abstraction, Inheritance, Polymorphism  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **10 November**
-### ✅ What I’ve Done
-- Learnt concepts of **Inheritance & Polymorphism** (from Sir)
-
-### 🎯 What I Will Do Next
-- Continue abstraction, inheritance & polymorphism codes  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **8 November**
-### ✅ What I’ve Done
-- Implemented **Abstraction** (Vehicle Example)  
-- Learnt theory on Inheritance & Polymorphism  
-
-### 🎯 What I Will Do Next
-- More implementation on Abstraction  
-- Inheritance & Polymorphism  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **7 November**
-### ✅ What I’ve Done
-- Constructor Programs (All 5 Types)  
-- BankAccount Program using various constructors  
-- Classes & Objects Implementation  
-- Started theory on Inheritance  
-- Implemented:
-  - Object Creation via `new`  
-  - Object Creation via Methods  
-  - Encapsulation (Account Validation, Student Validation)  
-- Updated README & folder structure  
-
-### 🎯 What I Will Do Next
-- Abstraction  
-- Inheritance  
-- More Encapsulation Problems  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **6 November**
-### ✅ What I’ve Done
-- Completed **Employee Wage Problem** fully (UC1–UC10) with Git workflow  
-- Completed **Snake Ladder Problem** + full Git workflow + detailed README  
-- Learnt **const** & **readonly** keywords  
-- Learnt:
-  - Objects & Classes  
-  - 5 Types of Classes  
-  - 5 Types of Constructors  
-  - Singleton Design Pattern  
-  - Destructors  
-  - Access Specifiers  
-  - Encapsulation & Abstraction  
-  - Difference between Abstraction vs Encapsulation  
-
-### 🎯 What I Will Do Next
-- Real-life Object-Oriented Problems  
-- Inheritance & Polymorphism  
-- Matrix Problems (Addition, Subtraction, etc.)  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **4 November**
-### ✅ What I’ve Done
-- Completed **Employee Wage UC1–UC6**
-- Learnt OOPs Concepts (Detailed: Inheritance)
-- Learnt OOPs Encapsulation Concept (Detailed)
-- Completed:
-  - Employee Wage UC7–UC10  
-  - Address Book UC1–UC4  
-
-### 🎯 What I Will Do Next
-- Snake & Ladder  
-- Rest of Employee Wage  
-- Rest of Address Book  
-- More OOPs Concepts (Inheritance & Polymorphism)
-
-### ⚠️ Issues Faced
-- Identifying proper class variables & pointer references *(Resolved)*  
-
----
-
-## 📅 **3 November**
-### ✅ What I’ve Done
-- Learnt **Jagged Array**, **Verbatim String Literals**, **Classes & Objects**
-
-### 🎯 What I Will Do Next
-- Snake Ladder  
-- Employee Wage  
-- OOPs Concepts  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **31 October**
-### ✅ What I’ve Done
-- **Conditionals**  
-  - Character Type Identification  
-  - Greatest of 2 Numbers  
-  - Leap Year  
-
-- **Looping**  
-  - Asterisk Pattern  
-  - Flip Coin  
-  - Top 10 Sum & Average  
-
-- **Arrays**  
-  - Two Sum (User Input + Fixed Array)  
-  - Duplicate Elements Program  
-
-- **Theory Revised**  
-  - C#, .NET, CLI, CLR, CLS  
-  - Working of Code Execution  
-  - ASP.NET & ASP.NET Core (Basics)  
-  - Type Inference  
-  - Foreach Loop  
-  - Arrays  
-  - VCS & Git Architecture  
-  - More Git Commands  
-  - Strings & StringBuilder  
-  - Implemented a simple string operations program  
-
-### 🎯 What I Will Do Next
-- More about strings and its operations  
-
-### ⚠️ Issues Faced
-- None  
-
----
-
-## 📅 **30 October**
-### ✅ What I’ve Done
-- Revised concepts of **Datatypes**, **Git commands**, pushing & resolving conflicts  
-- Created a new repository **`BridgeLabz_Training_AMTPL`**  
-- Set up:
-  - `main` branch with **README.md**
-  - `dev` branch with **SampleCode**
-  - `features/1_datatypes` branch with **Datatypes** folder  
-- Completed 3 datatype programs:
-  - Implicit Conversion  
-  - Explicit Conversion  
-  - Casting using Built-in Functions  
-- Followed proper Git workflow and pushed all changes  
-
-### 🎯 What I Will Do Next
-- Conditionals  
-- Looping  
-- Arrays  
-
-### ⚠️ Issues Faced
-- `.vs` conflicts while pushing *(Resolved)*  
-
----
+This hub provides a unified entry point to explore all projects, demonstrating problem-solving approaches and full-stack development capabilities across console applications, file handling, APIs, and web development.
