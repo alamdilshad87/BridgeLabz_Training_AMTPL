@@ -1,6 +1,133 @@
 # 📘 BridgeLabZ Training Progress  
 A detailed log of my daily learning, coding, and progress during the BridgeLabZ training program.
 
+## 📅 **31 December**
+### ✅ What I’ve Done
+- Worked on **Web API**
+- Learnt **SMTP** concepts
+
+### 🎯 What I Will Do Next
+- Fundoo Notes
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **30 December**
+### ✅ What I’ve Done
+- Implemented **Employee Leave Management System** using **Swagger**
+- Tested APIs using **Postman**
+- Solved **2D Array problem** given by Kural Sir  
+- Repository:  
+  - https://github.com/alamdilshad87/EmployeeLeaveManagementSystem
+
+### 🎯 What I Will Do Next
+- Fundoo Project
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **29 December**
+### ✅ What I’ve Done
+- Refined **BookStore Application UI**
+- Added multiple new features  
+- Repository:  
+  - https://github.com/alamdilshad87/BookStoreManagementSystem
+
+### 🎯 What I Will Do Next
+- Fundoo
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **27 December**
+### ✅ What I’ve Done
+- Developed **BookStore WebForm Application** with:
+  - Login & Registration  
+  - Password Hashing  
+  - Books Listing  
+  - Add to Cart  
+  - Wishlist  
+  - Place Order  
+  - Order History  
+- Implemented under `features/BookStore` branch
+
+### 🎯 What I Will Do Next
+- Refine UI of BookStore  
+- Implement more features
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **26 December**
+### ✅ What I’ve Done
+- Studied **WebForm Detailed Theory**
+- Implemented **Login Page**
+  - Default ID & Password  
+  - Database-linked Login Authentication
+
+### 🎯 What I Will Do Next
+- BookStore Application using WebForm
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **24 December**
+### ✅ What I’ve Done
+- Learnt and practiced:
+  - SubQueries  
+  - Procedures  
+  - Views  
+  - Triggers  
+  - Functions  
+
+### 🎯 What I Will Do Next
+- ASP.NET Core
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **23 December**
+### ✅ What I’ve Done
+- Completed **Employee Wage Problem** (All Use Cases)
+- Gave reviews to **Kural Sir** and **Deptanshu Sir**
+- Started **SubQueries**
+- Repositories:
+  - https://github.com/alamdilshad87/EmployeeWage
+  - https://github.com/alamdilshad87/LibraryManagementSystem
+
+### 🎯 What I Will Do Next
+- Procedures  
+- Views
+
+### ⚠️ Issues Faced
+- None
+
+---
+
+## 📅 **22 December**
+### ✅ What I’ve Done
+- Solved **Billing Transaction Question**
+- Practiced **SQL DDL & DML Commands**
+
+### 🎯 What I Will Do Next
+- Start **CTE**  
+- SQL **Locks**
+
+### ⚠️ Issues Faced
+- None
+
 ## 📅 **20 December**
 ### ✅ What I’ve Done
 - Worked on **ADO.NET connection with Database**
