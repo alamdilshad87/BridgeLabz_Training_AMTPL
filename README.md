@@ -85,7 +85,35 @@ Full-stack e-commerce application with user authentication, shopping cart, order
 **Tech Stack:** ASP.NET Web Forms, C#, Entity Framework 6, SQL Server Express, Bootstrap 5
 
 ---
+### 6. Employee Leave Management System
+**Repository:** https://github.com/alamdilshad87/EmployeeLeaveManagementSystem
 
+Role-based **Employee Leave Management System** implemented as an **ASP.NET Core Web API**, demonstrating complete **CRUD operations**, **business rule enforcement**, **soft delete implementation**, and **LINQ-based reporting**. The system simulates real-world leave workflows involving Employees, Managers, and HR roles.
+
+**Features:**
+- Apply leave with employee and date validations
+- Role-based leave visibility (Manager and HR)
+- Approve or reject leave requests
+- Soft delete (cancel leave without removing database records)
+- Business rule enforcement (overlapping leave prevention, active leave checks)
+- Aggregated reports using LINQ
+- API testing via Postman and Swagger
+
+**Topics Covered:**
+- RESTful API architecture
+- ASP.NET Core Web API
+- Entity Framework Core (Code First)
+- SQL Server integration
+- LINQ filtering, grouping, and aggregation
+- DTOs and validation handling
+- Soft delete pattern
+- Role-based logic implementation
+- Postman API testing
+
+**Tech Stack:**  
+ASP.NET Core Web API, C#, Entity Framework Core, SQL Server Express, LINQ, Postman, Swagger
+
+---
 ## Development Standards
 
 - Use-case driven development methodology
