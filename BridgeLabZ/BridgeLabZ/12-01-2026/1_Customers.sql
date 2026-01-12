@@ -1,0 +1,7 @@
+CREATE TABLE Customers
+(
+    CustomerId INT IDENTITY(1,1) PRIMARY KEY,
+    CustomerName VARCHAR(100) NOT NULL,
+    City VARCHAR(50) NOT NULL,
+    CreatedDate DATE NOT NULL DEFAULT GETDATE()
+);

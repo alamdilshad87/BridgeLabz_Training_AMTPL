@@ -1,0 +1,1 @@
+EXEC usp_HighPremiumPolicies
